@@ -7,7 +7,7 @@ def print_values_of(dictionary, keys):
 simpson_catch_phrases = {"lisa": "BAAAAAART!",
                          "bart": "Eat My Shorts!",
                          "marge": "Mmm~mmmmm",
-                         "homer": 'd''oh!',  # Added an apostrophe
+                         "homer": "d''oh!",  # Added an apostrophe
                          "maggie": "(Pacifier Suck)"
                          }
 
